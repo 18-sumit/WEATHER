@@ -1,6 +1,6 @@
 # Weather App
 
-Welcome to the Weather App repository! This simple web application, built with HTML, CSS, and JS, fetches real-time weather data using the Rapid API.
+Welcome to the Weather App repository! This simple web application, built with HTML, CSS, and JS, fetches real-time weather data using the Open Weather API.
 
 ## Features
 
@@ -11,10 +11,10 @@ Welcome to the Weather App repository! This simple web application, built with H
 ## Dependencies
 
 - HTML, CSS, JS
-- [Rapid API](https://rapidapi.com/) for weather data.
+- [Rapid API](https://openweathermap.org) for weather data.
 
 ## API Key
 
-1. Sign up for a Rapid API account.
+1. Sign up for a  API account.
 2. Get an API key.
 3. Replace `YOUR_API_KEY` in `script.js` with your key.
